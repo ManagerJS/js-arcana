@@ -1,0 +1,22 @@
+{
+  "name": "js-arcana",
+  "version": "1.0.0",
+  "description": "Poking JS to see how it behaves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManagerJS/js-arcana.git"
+  },
+  "author": "Tyler Peterson <ty@managerjs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManagerJS/js-arcana/issues"
+  },
+  "homepage": "https://github.com/ManagerJS/js-arcana",
+  "dependencies": {
+    "mocha": "^2.2.4"
+  }
+}
